@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Yusuke Masuda</Authors>
+    <Company>Yusuke Masuda</Company>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Product>StringSimilarity.Net</Product>
+    <Copyright>Copyright (c) 2020 Yusuke Masuda, All Rights Reserved.</Copyright>
+    <PackageProjectUrl>https://github.com/yusukemasuda/StringSimilarity.Net</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/yusukemasuda/StringSimilarity.Net</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>StringSimilarity StringDistance EditDistance Levenshtein</PackageTags>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
+    <FileVersion>1.0.3.0</FileVersion>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.0.3</Version>
+  </PropertyGroup>
+
+</Project>
